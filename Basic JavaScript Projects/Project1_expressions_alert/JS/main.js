@@ -4,7 +4,7 @@ var Sent2 = "and this is the end of the string";
 
  window.alert("Hello, World!") //Making a pop up alert when you open the page.
 
- document.write(Sent1 + Sent2);//This is how you have JS display the text of 
+ document.write(Sent1 + Sent2);//This is how you display the text of 
  // two variables concatenated together
 
  document.write("<br>") //This is how to insert a line break
